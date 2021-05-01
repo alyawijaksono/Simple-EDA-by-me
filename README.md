@@ -1,6 +1,6 @@
 # Simple-EDA-by-me
 
-![Credit by Freepik](https://www.freepik.com/vectors/background "credit")
+![Credit by Freepik](/2325069.jpg)
 
 _Exploratory Data Analysis_ atau biasa disingkat **EDA** adalah proses untuk mengeksplorasi, menganalisa dan mengetahui ringkasan tentang data.
 
